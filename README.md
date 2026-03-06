@@ -1,7 +1,7 @@
 # yolo11s-barbell-detection-model
 how to train and deploy an ultralytics yolo model using the yolo11s
 
-A computer vision system by @mleis4 and @hanjing06 that analyzes barbell trajectory during a squat using a the **YOLOv8 pose model** and **OpenCV-based video processing**. The system detects the barbell plates, calculates the barbell centroid, and visualizes the bar path across frames.
+A computer vision system by [@mleis4](https://github.com/mleis4) and [@hanjing06](https://github.com/hanjing06) that analyzes barbell trajectory during a squat using a the **YOLOv8 pose model** and **OpenCV-based video processing**. The system detects the barbell plates, calculates the barbell centroid, and visualizes the bar path across frames.
 
 This project explores **real-time computer vision pipelines**, combining deep learning inference with classical computer vision techniques to analyze athletic movement (currently focusing on just squatting).
 
@@ -147,4 +147,4 @@ the system will:
 - multi-camera analysis
 
 
-
+Hanjing Lin and Mats Leis, 2026
